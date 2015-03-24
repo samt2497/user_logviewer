@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+	<name>View Logs</name>
+	<version>100</version>
+	<type>user</type>
+	<defaultcat>Advanced</defaultcat>
+	<desc>Allows user to view several logs of their sites</desc>
+	<authorname>samt2497</authorname>
+	<authoremail>samt2497@hotmail.com</authoremail>
+	<authorurl>http://samtcorp.com/</authorurl>
+	<updateurl>http://zppy.samtcorp.com/updateservice/user_logviewer</updateurl>
+</module>
